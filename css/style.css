@@ -97,6 +97,9 @@ footer p{
     body{
       margin: 0;
     }
+   .status{
+    display:none;
+   }
     .calculator{
       padding: 10px;
       width: 100%;
